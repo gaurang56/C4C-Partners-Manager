@@ -60,7 +60,7 @@ Make sure you have the following installed on your system:
 
 ### Lessons Learned
 
-Working on this project provided valuable experience in combining React with Vite and managing state effectively. I decided to use a JSON server as a back end instead of a full-fledged backend as I currently in the process of learning express js.
+Working on this project provided valuable experience in combining React with Vite and managing state effectively. I decided to use a JSON server instead of a full-fledged backend as I am currently in the process of learning express js.
 
 ### Improvements and Future Work
 
