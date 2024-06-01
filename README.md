@@ -34,6 +34,12 @@ Make sure you have the following installed on your system:
     npm install
     ```
 
+3. Install the required libraries
+
+    ```sh
+    npm install axios @mui/material @emotion/react @emotion/styled
+    ```
+
 ### Running the Application
 
 1. Start the JSON server:
@@ -47,6 +53,7 @@ Make sure you have the following installed on your system:
     ```sh
     npm run dev
     ```
+3. Copy the local host url provided by vite to your preferred search browser.
 
 ## Design Decisions
 
@@ -70,7 +77,7 @@ If I had more time, I would:
 
 ### Challenges and Solutions
 
-One challenge was ensuring the layout was responsive and the cards displayed horizontally instead of vertically. This was solved by using Material-UI's Grid system, which provided an easy way to organize the layout responsively.
+I do not posses much experience with working on the backend, thus I found connecting the server with the front-end slightly challenging. After working on this project, I am comfortable with all kinds of HTTP requests. 
 
 ### Bonus Features
 
