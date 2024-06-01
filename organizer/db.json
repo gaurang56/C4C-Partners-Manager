@@ -1,0 +1,32 @@
+{
+  "partners": [
+    {
+      "partner_name": "MBTA",
+      "partner_description": "The MBTA is responsible for managing transport in Boston.",
+      "check_status": true,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/MBTA.svg",
+      "id": 1
+    },
+    {
+      "partner_name": "MBTA",
+      "partner_description": "The MBTA is responsible for managing transport in Boston.",
+      "check_status": false,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/MBTA.svg",
+      "id": 2
+    },
+    {
+      "partner_name": "MBTA",
+      "partner_description": "The MBTA is responsible for managing transport in Boston.",
+      "check_status": true,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/MBTA.svg",
+      "id": 3
+    },
+    {
+      "partner_name": "MBTA",
+      "partner_description": "The MBTA is responsible for managing transport in Boston.",
+      "check_status": true,
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/MBTA.svg",
+      "id": 4
+    }
+  ]
+}
