@@ -48,8 +48,6 @@ Make sure you have the following installed on your system:
     npm run dev
     ```
 
-3. Open your browser and navigate to `http://localhost:3005` to see the application in action.
-
 ## Design Decisions
 
 - **React and Vite**: Chosen for their speed and efficiency in development, allowing for quick iteration and hot module replacement.
